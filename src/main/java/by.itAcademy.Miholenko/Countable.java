@@ -1,6 +1,5 @@
 package by.itAcademy.Miholenko;
 
-public interface GetSquare {
+public interface Countable {
     double getSquare();
-
 }
